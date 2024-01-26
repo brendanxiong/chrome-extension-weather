@@ -1,4 +1,3 @@
-/* eslint-disable */
 let result = undefined;
 
 
@@ -43,5 +42,5 @@ document.addEventListener('DOMContentLoaded', () => {
     });
     
     
-  }); 
+  });
 
